@@ -1,0 +1,4 @@
+make a branch from main -> add some codes -> push
+make a branch from new_branch1 (which you've made during last task)-> add
+some codes -> push
+compare the 2 branches
